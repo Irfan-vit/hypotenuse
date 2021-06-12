@@ -1,2 +1,2 @@
-# hypotenuse
+# sumoftyriangles
 Created with CodeSandbox
